@@ -82,7 +82,5 @@ const makeCommits = (n) => {
 //   stdout.pipe(process.stdout);
 //   stderr.pipe(process.stderr);
 // });
-console.log("Starting commits"
-
-
+console.log("Starting commits");
 makeCommits(100);
